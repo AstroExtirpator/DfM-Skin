@@ -3,8 +3,8 @@
 Design-for-manufacturing (DfM) code for the variable-thickness composite panel skin, developed
 as part of the MSc thesis *Novel Framework for the Optimization and Manufacturable Design of
 Stiffened Variable-Thickness Composite Panels* by Flavio Claudio Padua, Faculty of Aerospace
-Engineering, Delft University of Technology (academic supervisor: Daniël Peeters; company
-supervisor: Ismet Baran). This repository corresponds to Appendix B of the thesis.
+Engineering, Delft University of Technology, in collaboration with Collins Aerospace (academic supervisor: Daniël Peeters; company
+supervisor: Ismet Baran).
 
 The code takes a continuous Free-Size Optimization (FSO) thickness result for the panel skin and
 turns it into a manufacturable, discrete-zone laminate design for Automated Fiber Placement
